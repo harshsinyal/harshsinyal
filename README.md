@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harshsinyal
+- 👀 I’m interested in ...algos, blockchain, analytics and finance
+- 🌱 I’m currently learning ...C, java, solidity
+- 💞️ I’m looking to collaborate on ...alot of stuff, still exploring
+- 📫 How to reach me ...mail me at neoz.blockchain@gmail.com
